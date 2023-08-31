@@ -1,0 +1,25 @@
+{
+  "name": "beginner-functions",
+  "version": "1.0.0",
+  "description": "For people who are absolute beginners to JavaScript, here are a few functions that you can use for practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/webdevelopermamun-official/beginner-functions.git)"
+  },
+  "keywords": [
+    "Beginner",
+    "javascript",
+    "normal",
+    "functions",
+    "testing",
+    "functions",
+    "beginner",
+    "functions"
+  ],
+  "author": "Mamun Mirdha",
+  "license": "ISC"
+}
